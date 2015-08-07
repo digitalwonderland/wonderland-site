@@ -719,7 +719,8 @@ img, video, iframe, embed, object {
 }
 #aboutUs {
 	background: #fff;
-	padding-top: 35px;
+	opacity: 0.4;
+	padding-top: 50px;
 	padding-bottom: 25px;
 	overflow: hidden;
 }
@@ -885,8 +886,8 @@ body {
 footer {
 	border-top: 1px solid #303030;
 	padding: 35px 0 15px;
-	background: #161616;
-	opacity:0.9;
+	background: #fff;
+	/*opacity:0.9;*/
 }
 .social a:hover {
 	color: #818181;
@@ -1382,7 +1383,8 @@ nav#filter li {
 }
 
 .blurb>h2 {
-	color:#2c2c2c;
+	padding-top:60px;;
+	color:#3f3f3f;
 }
 
 .footer-email{
